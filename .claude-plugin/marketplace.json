@@ -1,0 +1,14 @@
+{
+  "name": "agent-permission-boundaries",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "agent-permission-boundaries",
+      "source": "./",
+      "description": "Define actions an AI agent may complete independently and actions reserved for explicit human approval, including money, security settings, production, publication, and irreversible changes."
+    }
+  ]
+}
